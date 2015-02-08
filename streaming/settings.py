@@ -1,8 +1,8 @@
 from datetime import datetime
 
 # For Twitter's Streaming API
-CONSUMER_KEY =""
-CONSUMER_SECRET =""
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
 ACCESS_KEY = ""
 ACCESS_SECRET = ""
 
