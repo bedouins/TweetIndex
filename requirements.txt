@@ -1,0 +1,9 @@
+# For Twitter Streaming API
+datetime
+pymongo
+tweepy
+
+# For EC2 API
+git+https://github.com/django-nonrel/django@nonrel-1.5
+git+https://github.com/django-nonrel/djangotoolbox
+git+https://github.com/django-nonrel/mongodb-engine
