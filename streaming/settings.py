@@ -1,10 +1,10 @@
 from datetime import datetime
 
 # For Twitter's Streaming API
-CONSUMER_KEY ="8Fh6WzQZosu6UW0seku24A"
-CONSUMER_SECRET ="BjO6t0oRPOHbIi3jzTgjPxQz9kw5GlfNKMzRWSPfF4"
-ACCESS_KEY = "1968515870-7E8QN6yIg2gZptjEM2VpLo4azFV4gusZ7fh3G7j"
-ACCESS_SECRET = "8iIskUZN2IgfTeQ6t5fVHpi4yzvmpExxxsRTaAWDNE"
+CONSUMER_KEY =""
+CONSUMER_SECRET =""
+ACCESS_KEY = ""
+ACCESS_SECRET = ""
 
 # For MongoDB
 MONGO_URL = 'mongodb://localhost:27017'
